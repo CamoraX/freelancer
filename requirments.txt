@@ -1,0 +1,7 @@
+I want you to style these pages to look decent and i want you to add 3 additional pages.
+Pages that needs to be added are: Extension, Upgrade, Contact
+
+Extension Page : Description of google chrome extension that will be available for download. 
+Upgrade Page : This will be the page where people will be able to upgrade/buy their licenses. 
+Contact Page: Create a contact form
+
